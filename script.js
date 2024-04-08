@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(200);
+  background(50, 100, 30, 10);
 
   //this is a call to myShape()
   myShape(width/2, height/2, 50, 50);
